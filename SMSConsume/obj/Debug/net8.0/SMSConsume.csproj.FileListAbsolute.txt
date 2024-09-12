@@ -31,3 +31,4 @@ C:\Users\MASSTECH\source\repos\Shubham Parad\SMSConsume\SMSConsume\obj\Debug\net
 C:\Users\MASSTECH\source\repos\Shubham Parad\SMSConsume\SMSConsume\obj\Debug\net8.0\SMSConsume.pdb
 C:\Users\MASSTECH\source\repos\Shubham Parad\SMSConsume\SMSConsume\obj\Debug\net8.0\SMSConsume.genruntimeconfig.cache
 C:\Users\MASSTECH\source\repos\Shubham Parad\SMSConsume\SMSConsume\obj\Debug\net8.0\ref\SMSConsume.dll
+C:\Users\MASSTECH\source\repos\Shubham Parad\SMSConsume\SMSConsume\obj\Debug\net8.0\SMSConsume.sourcelink.json

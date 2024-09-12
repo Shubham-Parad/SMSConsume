@@ -81,7 +81,7 @@ body {
         cursor: pointer;
         text-align: center;
         margin: 0 auto;
-        width: 60px;
+        width: fit-content;
         color: #fff;
         background-color: #ff73b3;
         opacity: 1;

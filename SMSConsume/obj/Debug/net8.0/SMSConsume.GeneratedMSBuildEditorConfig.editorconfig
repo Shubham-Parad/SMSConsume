@@ -18,8 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\MASSTECH\source\repos\Shubham Parad\SMSConsume\SMSConsume
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Auth/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Auth/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Home/Index.cshtml]

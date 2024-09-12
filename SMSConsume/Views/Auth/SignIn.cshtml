@@ -6,6 +6,8 @@
 <html>
 <head>
     <link href="~/assets/css/auth.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
 </head>
 
 <div class="container">
@@ -43,21 +45,25 @@
                     <div class="table">
                         <div class="table-cell">
                             <input class="form-control" type="text" asp-for="UserName" name="UserName" placeholder="Username" />
-                            <input class="form-control" type="password" name="Password" placeholder="Password" />
+                            <input class="form-control" type="password" asp-for="Password" name="Password" placeholder="Password" />
                             <input class="btn" type="submit" value="Log in" />
                         </div>
                     </div>
                 </form>
             </div>
             <div class="form-item sign-up">
-                <div class="table">
-                    <div class="table-cell">
-                        <input name="email" placeholder="Email" type="text" /><input name="fullName" placeholder="Full Name" type="text" /><input name="Username" placeholder="Username" type="text" /><input name="Password" placeholder="Password" type="Password" />
-                        <div class="btn">
-                            Sign up
+                <form method="post" asp-action="SignUp" asp-controller="Auth">
+                    <div class="table">
+                        <div class="table-cell">
+                            <input class="form-control" name="Username" placeholder="Username" asp-for="UserName" type="text" />
+                            <input class="form-control" name="Password" placeholder="Password" asp-for="Password" type="Password" />
+                            <input class="form-control" name="Role" placeholder="Role" asp-for="Urole" type="text" />
+                            <input class="form-control" name="email" placeholder="Email" asp-for="Email" type="email" />
+                            <input class="form-control" name="Phone" placeholder="Phone No" asp-for="Phone" type="text" />
+                            <input class="btn" type="submit" value="Sign up" />
                         </div>
-                    </div>
-                </div>
+                    </div> 
+                </form>
             </div>
         </div>
     </div>
