@@ -9,55 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SMSConsume
 build_property.RootNamespace = SMSConsume
-build_property.ProjectDir = C:\Users\SHUBHAM\source\repos\SMSConsume\SMSConsume\
+build_property.ProjectDir = C:\Users\MASSTECH\source\repos\Shubham Parad\SMSConsume\SMSConsume\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\SHUBHAM\source\repos\SMSConsume\SMSConsume
+build_property.MSBuildProjectDirectory = C:\Users\MASSTECH\source\repos\Shubham Parad\SMSConsume\SMSConsume
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Auth/Index.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Admin/AddClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ2xhc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Admin/AddParent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUGFyZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Admin/AddTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkVGVhY2hlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Admin/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Auth/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Auth/SignIn.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Auth/SignUp.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Auth/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Home/Index.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Home/Privacy.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Shared/Error.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Shared/_AuthToggle.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Shared/_AuthToggle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoVG9nZ2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/_ViewImports.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/_ViewStart.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SHUBHAM/source/repos/SMSConsume/SMSConsume/Views/Shared/_Layout.cshtml]
+[C:/Users/MASSTECH/source/repos/Shubham Parad/SMSConsume/SMSConsume/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5ckt3rwza6

@@ -55,19 +55,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SHUBHAM\\.nuget\\packages\\": {}
+    "C:\\Users\\MASSTECH\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHUBHAM\\Source\\Repos\\SMSConsume\\SMSConsume\\SMSConsume.csproj",
+      "projectUniqueName": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\SMSConsume.csproj",
       "projectName": "SMSConsume",
-      "projectPath": "C:\\Users\\SHUBHAM\\Source\\Repos\\SMSConsume\\SMSConsume\\SMSConsume.csproj",
-      "packagesPath": "C:\\Users\\SHUBHAM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHUBHAM\\Source\\Repos\\SMSConsume\\SMSConsume\\obj\\",
+      "projectPath": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\SMSConsume.csproj",
+      "packagesPath": "C:\\Users\\MASSTECH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\SHUBHAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MASSTECH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
