@@ -1,34 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\",
+  "WorkspaceRootPath": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smsconsume\\smsconsume\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smsconsume\\smsconsume\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smsconsume\\smsconsume\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smsconsume\\smsconsume\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smsconsume\\smsconsume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smsconsume\\smsconsume\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\masstech\\source\\repos\\shubham parad\\smsconsume\\smsconsume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|c:\\users\\shubham\\source\\repos\\smsconsume\\smsconsume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF135893-DF65-4D2E-A256-DE8DDF6A6EAD}|SMSConsume\\SMSConsume.csproj|solutionrelative:smsconsume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +46,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
@@ -78,10 +90,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -94,24 +102,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\appsettings.json",
+              "RelativeDocumentMoniker": "SMSConsume\\appsettings.json",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\appsettings.json",
+              "RelativeToolTip": "SMSConsume\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T05:07:17.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "SMSConsume\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "SMSConsume\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T04:57:55.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Program.cs",
               "RelativeDocumentMoniker": "SMSConsume\\Program.cs",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Program.cs",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Program.cs",
               "RelativeToolTip": "SMSConsume\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T11:40:18.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Views\\Auth\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Auth\\Index.cshtml",
               "RelativeDocumentMoniker": "SMSConsume\\Views\\Auth\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Auth\\Index.cshtml",
               "RelativeToolTip": "SMSConsume\\Views\\Auth\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -120,65 +154,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SMSConsume\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SMSConsume\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-12T11:38:16.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Views\\Auth\\SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Auth\\SignUp.cshtml",
               "RelativeDocumentMoniker": "SMSConsume\\Views\\Auth\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Auth\\SignUp.cshtml",
               "RelativeToolTip": "SMSConsume\\Views\\Auth\\SignUp.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-12T10:15:07.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SignIn.cshtml",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Views\\Auth\\SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Auth\\SignIn.cshtml",
               "RelativeDocumentMoniker": "SMSConsume\\Views\\Auth\\SignIn.cshtml",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Views\\Auth\\SignIn.cshtml",
               "RelativeToolTip": "SMSConsume\\Views\\Auth\\SignIn.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAbAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-10T09:47:42.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Models\\Users.cs",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Models\\Users.cs",
               "RelativeDocumentMoniker": "SMSConsume\\Models\\Users.cs",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Models\\Users.cs",
               "RelativeToolTip": "SMSConsume\\Models\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T09:44:24.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "SMSConsume\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\MASSTECH\\source\\repos\\Shubham Parad\\SMSConsume\\SMSConsume\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\SMSConsume\\SMSConsume\\Controllers\\AuthController.cs",
               "RelativeToolTip": "SMSConsume\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAgwDMAAAARAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwGcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T09:41:56.022Z",
               "EditorCaption": ""

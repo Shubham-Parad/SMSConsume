@@ -4,3 +4,30 @@
 
 @model Users
 
+<link href="~/assets/css/auth.css" rel="stylesheet" />
+
+<form method="post">
+	Username <input type="text" asp-for="UserName" class="form-control" /><br />
+	Password <input type="text" asp-for="Password" class="form-control" /><br />
+    Role <select asp-for="Urole" class="form-control" id="selectRole">
+        <option value="Admin">Admin</option>
+        <option value="Teacher">Teacher</option>
+        <option value="Student">Student</option>
+        <option value="Parent">Parent</option>
+        <option value="Librarian">Librarian</option>
+        <option value="Accountant">Accountant</option>
+    </select><br />
+	Email<input type="email" asp-for="Email" class="form-control" /><br />
+	Phone <input type="text" asp-for="Phone" class="form-control" /><br />
+
+	<input type="submit" value="Save" class="btn btn-primary" />
+</form>
+
+<br />
+<a asp-controller="Auth" asp-action="SignIn">SignIn</a>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>

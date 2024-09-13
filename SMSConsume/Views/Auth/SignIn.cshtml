@@ -57,12 +57,19 @@
                         <div class="table-cell">
                             <input class="form-control" name="Username" placeholder="Username" asp-for="UserName" type="text" />
                             <input class="form-control" name="Password" placeholder="Password" asp-for="Password" type="Password" />
-                            <input class="form-control" name="Role" placeholder="Role" asp-for="Urole" type="text" />
+                            <select asp-for="Urole" class="form-control" itemid="selectRole">
+                                <option value="Admin">Admin</option>
+                                <option value="Teacher">Teacher</option>
+                                <option value="Student">Student</option>
+                                <option value="Parent">Parent</option>
+                                <option value="Librarian">Librarian</option>
+                                <option value="Accountant">Accountant</option>
+                            </select>
                             <input class="form-control" name="email" placeholder="Email" asp-for="Email" type="email" />
                             <input class="form-control" name="Phone" placeholder="Phone No" asp-for="Phone" type="text" />
                             <input class="btn" type="submit" value="Sign up" />
                         </div>
-                    </div> 
+                    </div>
                 </form>
             </div>
         </div>
@@ -78,5 +85,4 @@
         $(".container").addClass("active");
     });
 </script>
-
 </html>

@@ -12,6 +12,13 @@ body {
     overflow: hidden;
 }
 
+#selectRole {
+    margin-left: 42px;
+    margin-bottom: 10px;
+    width: 72%;
+    height: 35px;
+}
+
 .table {
     display: table;
     width: 100%;
